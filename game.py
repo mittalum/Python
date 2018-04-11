@@ -14,7 +14,7 @@ while playerhp > 0:
     if playerhp<=0:
        playerhp = 0
 
-    print("your damage is ", dmg, "your life left is ", playerhp)
+    print("your damage ishhhhhhhh ", dmg, "your life left is ", playerhp)
 
     if playerhp==0:
         print("your damage is ", dmg, "your life left is ", playerhp,"and you have died")
